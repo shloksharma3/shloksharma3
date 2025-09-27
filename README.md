@@ -1,7 +1,5 @@
 Hi, I'm Shlok Vashishth, a passionate Data Analyst specializing in transforming raw data into meaningful insights..."
 
-Skills & Technologies: Create a section listing your skills. Use icons to make it visually appealing.
-
 Languages: Python, SQL
 
 Python Libraries: Pandas, NumPy, Matplotlib, Scikit-learn
